@@ -1,5 +1,5 @@
 {
-  "name": "learningthreejs",
+  "name": "3jslearn",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,5 +10,9 @@
   },
   "devDependencies": {
     "vite": "^5.3.1"
+  },
+  "dependencies": {
+    "gsap": "^3.12.5",
+    "three": "^0.165.0"
   }
 }
